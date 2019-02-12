@@ -1,4 +1,4 @@
 {
   "package_name": "Hello",
-  "command_name": "Howdy"
+  "_copy_without_render": ["*.html"]
 }

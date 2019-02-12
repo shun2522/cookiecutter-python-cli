@@ -1,0 +1,2 @@
+graft {{cookiecutter.package_name}}/templates
+graft {{cookiecutter.package_name}}/static

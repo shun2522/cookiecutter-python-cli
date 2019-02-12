@@ -1,2 +1,0 @@
-# graft foo/templates
-# include bar/db.sqlite3

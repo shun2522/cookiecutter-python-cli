@@ -10,9 +10,7 @@ setup(
     packages=find_packages(),
     include_package_data=True,
     install_requires=[
-        'click'
-    ],
-    entry_points={
-        'console_scripts': ['{{cookiecutter.command_name}}={{cookiecutter.package_name}}.cli:main']
-    }
+        'flask',
+        'flask_bootstrap'
+    ]
 )
